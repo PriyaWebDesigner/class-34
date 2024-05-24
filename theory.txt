@@ -1,0 +1,9 @@
+
+
+$color = 'Orange';
+
+switch(value){
+    case 'Green';
+    echo 'Success';
+    break;
+}   
